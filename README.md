@@ -2,7 +2,7 @@
 
 > [LikeLion] K-Digital Training Review Note
 
-> 기간 : 2021.03.08 ~ 2021.05.25
+`기간 : 2021.03.08 ~ 2021.05.25`
 
 
 
